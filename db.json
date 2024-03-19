@@ -1,0 +1,10 @@
+{
+    "users":[
+        {
+            "id":1,
+            "nome":"Gabriel",
+            "email":"gabriel.ceravolo26@gmail.com",
+            "cargo":"Admin"
+        }
+    ]
+}
